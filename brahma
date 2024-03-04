@@ -1,0 +1,82 @@
+ cd Desktop/
+    2  cd git
+    3  ls
+    4  touch brahma
+    5  ls -la
+    6  git remote add origin https://github.com/Bramhi2406/git.git
+    7  git branch -M main
+    8  git push -u origin main~
+    9  git push -u origin main
+   10  ssh
+   11  ssh ubuntu@65.2.191.109
+   12  ssh -i ~/Desktop/devops-keypair.pem ubuntu@65.2.191.109
+   13  ssh -i ~/Desktop/devops-keypair.pem ubuntu@65.2.191.109
+   14  git clone https://github.com/ravithejajs/vprifile-app.git
+   15  git config --list
+   16  ls
+   17  cd vprifile-app/
+   18  git config --list
+   19  git remote remove origin
+   20  git config --list
+   21  git remote add origin https://github.com/Bramhi2406/vprifile-app.git
+   22  git add .
+   23  git commit -m
+   24  git commit -m "source code added"
+   25  git push
+   26      git push --set-upstream origin master
+   27  ssh -i ~/Desktop/devops-keypair.pem ubuntu@65.2.191.109
+   28  ssh -i ~/Desktop/devops-keypair.pem ec2-13-126-153-114.ap-south-1.compute.amazonaws.com
+   29  cd ..
+   30  ls
+   31  ssh -i ~/Desktop/devops-keypair.pem ec2-13-126-153-114.ap-south-1.compute.amazonaws.com
+   32  ssh -i "C:\Users\Anjankumar Reddy\Desktop\devops-keypair.pem" ubuntu@ec2-65-2-191-109.ap-south-1.compute.amazonaws.com
+   33  ssh -i "C:\Users\Anjankumar Reddy\Desktop\devops-keypair.pem" ubuntu@ec2-65-2-191-109.ap-south-1.compute.amazonaws.com
+   34   ssh -i devops-keypair ubuntu@ec2-65-2-191-109.ap-south-1.compute.amazonaws.com
+   35  ssh -i ~/Desktop/devops-keypair.pem ubuntu@65.2.191.109
+   36  ssh -i ~/Desktop/devops-keypair.pem ubuntu@65.2.191.109
+   37  ssh -i ~/Desktop/devops-keypair.pem ubuntu@13.126.153.114
+   38  sudo apt-get update
+   39  sudo su -
+   40  apt istall java
+   41  ssh -i ~/Desktop/devops-keypair.pem ubuntu@13.126.153.114
+   42  ssh -i ~/Desktop/devops-keypair.pem ubuntu@43.205.139.172
+   43  ssh -i "devops-keypair.pem" ubuntu@ec2-43-205-139-172.ap-south-1.compute.amazonaws.com
+   44  vim devops-keypair.pem
+   45  chmod 400 devops-keypair.pem
+   46  ssh -i "devops-keypair.pem" ubuntu@ec2-43-205-139-172.ap-south-1.compute.amazonaws.com
+   47  ssh -i "devops-keypair.pem" ubuntu@ec2-43-205-139-172.ap-south-1.compute.amazonaws.com
+   48  ec2-43-205-139-172.ap-south-1.compute.amazonaws.com
+   49  ssh -i "devops-keypair.pem" ubuntu@ec2-43-205-139-172.ap-south-1.compute.amazonaws.com
+   50  ssh -i "devops-keypair.pem" ubuntu@ec2-43-205-139-172.ap-south-1.compute.amazonaws.com
+   51  ssh -i "devops-keypair.pem" ubuntu@ec2-52-66-133-112.ap-south-1.compute.amazonaws.com
+   52  ssh -i "devops-keypair.pem" ubuntu@ec2-13-234-120-36.ap-south-1.compute.amazonaws.com
+   53  ssh -i "devops-keypair.pem" ubuntu@ec2-43-205-139-172.ap-south-1.compute.amazonaws.com
+   54  ssh -i "devops-keypair.pem" ubuntu@ec2-13-234-120-36.ap-south-1.compute.amazonaws.com
+   55  ssh -i "devops-keypair.pem" ubuntu@ec2-13-234-120-36.ap-south-1.compute.amazonaws.com
+   56  ssh -i "devops-keypair.pem" ubuntu@ec2-13-126-204-171.ap-south-1.compute.amazonaws.com
+   57  ssh -i "devops-keypair.pem" ubuntu@ec2-13-126-204-171.ap-south-1.compute.amazonaws.com
+   58  ssh -i "devops-keypair.pem" ubuntu@ec2-13-234-112-219.ap-south-1.compute.amazonaws.com
+   59  ssh -i "devops-keypair.pem" ubuntu@ec2-13-234-112-219.ap-south-1.compute.amazonaws.com
+   60  ssh -i "devops-keypair.pem" ubuntu@ec2-13-234-112-219.ap-south-1.compute.amazonaws.com
+   61  ssh -i "devops-keypair.pem" ubuntu@ec2-13-234-112-219.ap-south-1.compute.amazonaws.com
+   62  logout
+   63  ssh -i "devops-keypair.pem" ubuntu@ec2-35-154-22-201.ap-south-1.compute.amazonaws.com
+   64  ssh -i "devops-keypair.pem" ubuntu@ec2-35-154-22-201.ap-south-1.compute.amazonaws.com
+   65  ssh -i "devops-keypair.pem" ubuntu@ec2-13-232-231-16.ap-south-1.compute.amazonaws.com
+   66  ssh -i "devops-keypair.pem" ubuntu@ec2-13-232-231-16.ap-south-1.compute.amazonaws.com
+   67  ssh -i "devops-keypair.pem" ubuntu@ec2-65-2-125-162.ap-south-1.compute.amazonaws.com
+   68  ssh -i "devops-keypair.pem" ubuntu@ec2-65-2-125-162.ap-south-1.compute.amazonaws.com
+   69  ls
+   70  ssh -i "devops-keypair.pem" ubuntu@ec2-65-2-125-162.ap-south-1.compute.amazonaws.com
+   71  ec2-65-2-125-162.ap-south-1.compute.amazonaws.com
+   72  ls
+   73  cat devops-keypair.pem
+   74  cat ~/.ssh/id_rsa
+   75  ssh -i "devops-keypair.pem" ubuntu@ec2-65-0-92-42.ap-south-1.compute.amazonaws.com
+   76   ssh -i "devops-keypair.pem" ubuntu@ec2-65-0-92-42.ap-south-1.compute.amazonaws.com
+   77  ssh -i "devops-keypair.pem" ubuntu@ec2-65-0-92-42.ap-south-1.compute.amazonaws.com
+   78  ssh -i "devops-keypair.pem" ubuntu@ec2-65-0-92-42.ap-south-1.compute.amazonaws.com
+   79  ssh -i "Devops.pem" ubuntu@10.0.3.226
+   80  vim Devops.pem
+   81  ssh -i "Devops.pem" ubuntu@10.0.3.226
+   82  history
